@@ -1,0 +1,138 @@
+{
+  "Index": {
+    "title": "Hello world"
+  },
+  "Navbar": {
+    "Homepage": "Home page",
+    "AboutUs": "About Us",
+    "OurAchievements": "Our Achievements",
+    "Product": "Product",
+    "Career": "Career",
+    "Blogs": "Blogs",
+    "Contactus": "Contact us"
+  },
+  "Thumbnail": {
+    "section1": "Everything is possible",
+    "section2": "Start the",
+    "section3": "Journey",
+    "section4": "Exceed",
+    "section5": "The limit"
+  },
+  "ContentHomeOne": {
+    "section1": "Eureka, for Education in Indonesia",
+    "section2": "In a country rich in potential and talent, there is a spirit that aims to light the way to a bright future for education in Indonesia. ",
+    "section3": "Read More",
+    "section4": "Eureka believes that the spirit that arises is a call from the heart to provide the best for education in this country. We believe that every child has extraordinary potential and deserves a quality education to make their dreams come true."
+  },
+  "contentHomeTwo": {
+    "section1": "Share Services",
+    "section2": "For All People",
+    "section3": "Education",
+    "section4": "study together for all exam preparations",
+    "section5": "Visit to products",
+    "section6": "Prepare yourself for the professional world with the experts",
+    "section7": "Events and Entertainment",
+    "section8": "Play and learn, all in one event.",
+    "section9": "Business",
+    "section10": "Business matchmaking between institutions or companies"
+  },
+  "contentHomeThree": {
+    "section1": "Eureka in Numbers",
+    "section2": "We cover the entire country",
+    "section3": "The data above is taken in real time and will be updated regularly"
+  },
+  "tentang-kami": {
+    "sec1": "About Eureka",
+    "sec2": "Our Team",
+    "sec3": "Organizational structure",
+    "sec4": "Product Business Line",
+    "sec5": "About Eureka",
+    "sec6": "Eureka is an educational technology ecosystem in Indonesia. The main mission of Eureka Campus is to continue to synergize and support the transformation of education in various concentrations that continue to change and keep up with the times. Starting from one small goal, it eventually developed to achieve something bigger for the development of modern Indonesian education.",
+    "sec7": "View Products",
+    "sec8": "Our Team",
+    "sec9": "Organizational structure",
+    "sec10": "Product Business Line"
+  },
+  "pencapaian-kami": {
+    "sec1": "Eureka Destination",
+    "sec2": "Eureka is faced with various challenges that must be faced in carrying out its mission to improve the quality of education in this country. Therefore, Eureka will always ensure that their solutions are accessible to various groups. By addressing these challenges, Eureka will be able to make a significant contribution to improving the quality of education in the country.",
+    "sec3": "Our commitment",
+    "sec4": "Our goal",
+    "sec5": "Our commitment",
+    "sec6": "Milestone"
+  },
+  "produk": {
+    "sec1": "Various services for one goal in the world of education",
+    "sec2": ""
+  },
+  "career": {
+    "sec1": "Find Your Adventure With Us!"
+  },
+  "blog": {
+    "sec1": "Stories in Eureka",
+    "sec2": "Find interesting things about developments in the world of education. Read all articles about Eureka here."
+  },
+  "hubungi-kami": {
+    "sec1": "Take steps to grow with us",
+    "sec2": "Or contact us through",
+    "sec3": "Telephone",
+    "sec4": "Address",
+    "sec5": "I'am willing to disclose my personal identification information to PT Edukasi Rekanan Anda to identify the message I convey and the media to follow up on my message",
+    "sec6": "Contact us via the following email message.",
+    "sec7": "Send"
+  },
+  "modal-description": {
+    "title": "Eureka, for Education in Indonesia",
+    "explain1": "In a country rich in potential and talent, there is a passion that aims to light the way to a bright future for education in Indonesia.",
+    "explain2": "Eureka believes that the enthusiasm that arises is a call from the heart to provide the best for education in this country. We believe that every child has extraordinary potential and deserves a quality education to make their dreams come true.",
+    "explain3": "With the various products and services offered, Eureka is committed to improving the quality of education in Indonesia. From innovative learning models, interactive learning tools, to training and development programs for educators, we strive to create a learning environment that stimulates creativity and critical thinking.",
+    "explain4": "However, our vision is not limited to the classroom. We also play an active role in supporting social programs aimed at increasing access to education for children in remote and underprivileged areas. Through various CSR programs, we hope to provide equal opportunities for every child to achieve their dreams, without being hindered by economic limitations.",
+    "explain5": "Eureka is a reflection of the spirit of change and innovation in the world of education. We strive to continue to develop ourselves, explore new ideas, and collaborate with various parties to create an inclusive and sustainable education system for a better future for Indonesia.",
+    "explain6": "Together, let's make the big dreams of Indonesian children come true, because in their hands lies the key to the glory of this nation."
+  },
+  "product": {
+    "explainEurekaEdutech": "Eureka edutech provides programs and develops learning applications for students in Indonesia.",
+    "explainEurekaXpert": "Services from Eureka Xpert are present and designed to assist in the development of soft skills and digital skills.",
+    "explainEurekaEdutainment": "Eureka Edutainment is a form of creativity that combines elements of education and entertainment in its services.",
+    "explainEurekaBiz": "Eureka BIZ helps corporations to develop their businesses so that they contribute especially to the world of education.",
+    "button": "More"
+  },
+  "produk-detail": {
+    "eurekaEdutech": {
+      "back": "Back",
+      "explaiLanding": {
+        "explain1": "Eureka edutech provides programs and develops learning applications for students in Indonesia. Edutech's services and products aim to help students practice and assess academic abilities independently through direct assessments.",
+        "explain2": "The Eureka application was first launched in 2021 and can be used on the mobile platform (Android). In the application students can study material, study example questions and carry out exam simulations.",
+        "explain3": "To date, Eureka Edutech has also launched the National Assessment book for high school students as a companion learning material for students in preparing for the ANBK exam."
+      },
+      "ContentOne": {
+        "sec1": "Edutech Goals"
+      },
+      "ContentTwo": {
+        "sec1": "Edutech Services"
+      },
+      "ContentThree": {
+        "sec1": "Layanan Edutech",
+        "sec2": "Eureka Edutech will continue to develop various features and services to help Indonesian students learn and achieve their dreams without any restrictions in the current era of digitalization."
+      }
+    }
+  },
+  "eurekaExpert": {
+    "back": "Back",
+    "explaiLanding": {
+      "explain1": "Launched in November 2022, Eureka Xpert is one of Eureka's products which aims to develop professional talents and skills, especially digital skills so that they can adapt to digital transformation and the professional world",
+      "explain2": "Services from Eureka Xpert are present and designed to assist in the development of soft skills and digital skills. Until now, Eureka Xpert remains consistent in providing services for each individual and group so that they have the desired digital skills.",
+      "explain3": "To date, Eureka Edutech has also launched the National Assessment book for high school students as a companion learning material for students in preparing for the ANBK exam."
+    },
+    "ContentOne": {
+      "sec1": "Edutech Goals"
+    },
+    "ContentTwo": {
+      "sec1": "Edutech Services"
+    },
+    "ContentThree": {
+      "sec1": "Layanan Edutech",
+      "sec2": "Eureka Edutech will continue to develop various features and services to help Indonesian students learn and achieve their dreams without any restrictions in the current era of digitalization."
+    }
+  }
+}

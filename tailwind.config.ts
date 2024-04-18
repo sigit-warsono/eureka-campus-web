@@ -6,6 +6,7 @@ const config: Config = {
     "./src/components/**/*.{js,ts,jsx,tsx,mdx}",
     "./src/app/**/*.{js,ts,jsx,tsx,mdx}",
   ],
+  mode: "jit",
   theme: {
     extend: {
       backgroundImage: {
@@ -13,8 +14,13 @@ const config: Config = {
         "gradient-conic":
           "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
       },
+      backgroundColor: {
+        "black-colorNew": "rgba(0,0,0,0.4)",
+        "black-colorVid": "rgba(0,0,0,0.6)",
+        "black-colorModal": "rgba(0,0,0,0.1)",
+      },
     },
   },
-  plugins: [],
+  plugins: [require("@xpd/tailwind-3dtransforms")],
 };
 export default config;
