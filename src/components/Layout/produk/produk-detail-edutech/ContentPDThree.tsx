@@ -13,9 +13,12 @@ const ContentPDThree = () => {
           <span className="text-[1rem] font-extralight">
             {translate("ContentThree.sec2")}
           </span>
+          <span className="p-2 w-[35%] border border-black rounded-full text-center">
+            Kunjungi website Edutech
+          </span>
         </div>
       </div>
-      <div className="w-[50%] max-[710px]:w-full h-[30rem] bg-[url('/image/Rectangle99E.svg')] bg-no-repeat bg-cover"></div>
+      <div className="w-[50%] max-[710px]:w-full h-[40rem] bg-[url('/image/Rectangle99E.svg')] bg-no-repeat bg-cover"></div>
     </div>
   );
 };
